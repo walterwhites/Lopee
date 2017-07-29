@@ -4,8 +4,7 @@
     "type": "project",
     "autoload": {
         "psr-4": {
-            "AppBundle\\": "src/AppBundle",
-            "LopeePlatformBundle\\": "src/Lopee/PlatformBundle"
+            "": "src/"
         },
         "classmap": [
             "app/AppKernel.php",
