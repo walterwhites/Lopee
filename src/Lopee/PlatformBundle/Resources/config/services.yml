@@ -1,0 +1,4 @@
+services:
+#    lopee_platform.example:
+#        class: Lopee\PlatformBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]
